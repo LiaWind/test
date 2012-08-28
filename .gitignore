@@ -4,3 +4,6 @@ obj
 
 # mstest test results
 TestResults
+
+# some other files
+*.user
